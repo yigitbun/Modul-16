@@ -7,7 +7,7 @@ Hannover Hochschule Weiterbildung Modul 16 - Online Shopsysteme
 
 
 
-## Shopware
+# Shopware
 
 ### Kurz Beschreibung
 
@@ -21,7 +21,6 @@ Hannover Hochschule Weiterbildung Modul 16 - Online Shopsysteme
 
     zweite → Eine neue Kategorie, neues Produkt, Layout 
 
----
 
 Ausführliche Dokumentation
 
@@ -36,11 +35,6 @@ Ausführliche Dokumentation
 - Hier wird alles direkt auf einer Seite verwaltet. Oben links kannst du die versionnummer SW6 Umgebung sehen, in diesem Fall ist es nicht scheinbar weil wir Demo haben.
 - Nach dem Login starten wir im Dashboard. Shauen wir uns nun den nächsten Menüpunkt links in der Navigation an, und zwar werden das die Kataloge
 
----
-
-# Kleine Pause(konto erstellen und Demomodus wechseln) - 5 Minuten
-
----
 
 ### Kataloge
 
@@ -126,14 +120,13 @@ dort drei weitere Menüpunkte
 
 ---
 
-# Große Pause
 
 1. Kategorie
 2. Produkt
 
 ---
 
-## Editionen und Preise
+### Editionen und Preise
 
 [https://www.shopware.com/de/preise/](https://www.shopware.com/de/preise/)
 
@@ -144,6 +137,6 @@ dort drei weitere Menüpunkte
 - Add Product
 - 
 
-## Google speed analysis
+### Google speed analysis
 
 [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
